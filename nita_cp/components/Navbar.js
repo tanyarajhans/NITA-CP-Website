@@ -4,11 +4,11 @@ import Link from 'next/link'
 
 function Navbar() {
   return (
-    <nav className="flex flex-row justify-between mx-10 align-center">
-      <div className="text-3xl m-2">NITA-CP</div>
-      <div>
-        <ul className="flex justify-between m-2">
-          <li>
+    <nav className="flex m-3 items-center flex-row justify-between mx-10 align-center">
+      <div className="text-3xl ">NITA-CP</div>
+      <div className="w-80">
+        <ul className="flex flex-wrap justify-between text-xl ">
+        <li className="navhome">
             <Link href="/">
               <a>Home</a>
             </Link>
@@ -19,7 +19,7 @@ function Navbar() {
             </Link>
           </li>
           <li>
-            <Link href="/blog/hello-world">
+            <Link href="/blog">
               <a>Blog Post</a>
             </Link>
           </li>

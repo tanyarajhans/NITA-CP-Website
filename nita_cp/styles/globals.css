@@ -11,9 +11,15 @@
 
 .home{
     border-style: solid;
-    border-width: 25px;
+    border-width: 15px;
     border-color: blueviolet;
     min-height: 100vh;
     width: auto;
+}
+
+.navhome{
+    background-color: rgba(137, 43, 226, 0.294);
+    padding: 4px 15px;
+    border-radius: 20px;
 }
 
