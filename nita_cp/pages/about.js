@@ -5,7 +5,7 @@ function about() {
     return (
         <div className="home">
             <Navbar></Navbar>
-            This is about page
+            This issssss about page
         </div>
     )
 }
