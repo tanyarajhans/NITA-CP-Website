@@ -20,6 +20,10 @@
 .navhome{
     background-color: rgba(137, 43, 226, 0.294);
     padding: 4px 15px;
+    margin: -4px 0px;
     border-radius: 20px;
 }
 
+.shadoww{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
