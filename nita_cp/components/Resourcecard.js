@@ -16,7 +16,7 @@ function Resourcecard(props) {
             <h1>
                 {props.author}
             </h1>
-            <h1>
+            <h1 className="bg-gray-700 pl-2 pr-2 rounded-md text-white">
                 {props.difficulty}
             </h1>
         </div>
