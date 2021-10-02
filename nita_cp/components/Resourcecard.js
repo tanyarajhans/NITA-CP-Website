@@ -6,11 +6,11 @@ function Resourcecard(props) {
       <Image
         src={props.Image}
         alt="Picture of the author"
-        width={320}
-        height={200}
+        width={300}
+        height={170}
         className="rounded-xl "
       />
-      <div className="flex flex-col items-center w-60 -mt-9 z-10 p-2 rounded-md  bg-white">
+      <div className="flex flex-col items-center w-50 -mt-9 z-10 p-2 rounded-md  bg-white">
           <h1 className=" text-xl font-bold ">{props.name}</h1>
         <div className="flex w-60 justify-between rounded-md p-2 bg-gray-300  ">
             <h1>
