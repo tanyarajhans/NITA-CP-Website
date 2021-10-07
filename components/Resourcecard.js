@@ -6,8 +6,8 @@ function Resourcecard(props) {
   return (
     <Link target="_blank" href={props.link} className="cursor-pointer">
       <a target="blank">
-        <div className="flex flex-col cursor-pointer  justify-center items-center z-0 m-4 p-3">
-          <Image
+        <div className="flex flex-col cursor-pointer  justify-center items-center z-0 m-4  p-3">
+          <img
             src={props.Image}
             alt="Picture of the author"
             width={300}
