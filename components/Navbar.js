@@ -6,7 +6,9 @@ function Navbar() {
   return (
     <nav className="flex m-3 items-center flex-row justify-between mx-10 align-center">
       <Link href="/">
-        <div className="text-3xl cursor-pointer">NITA-CP</div>
+        <a>
+          <div className="text-3xl cursor-pointer">NITA-CP</div>
+        </a>
       </Link>
       <div className="w-3/5">
         <ul className="flex flex-wrap justify-between text-xl ">
