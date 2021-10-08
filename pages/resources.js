@@ -16,189 +16,189 @@ function resources() {
           link="https://www.commonlounge.com/discussion/b7d5d197ea274a0f83eee5c1c9d17e8c"
         />
         <Resourcecard
-          Image="https://drive.google.com/file/d/1Di6klTbQPWoHhT4HDS-QzOStNPEQQLh9/view?usp=sharing"
+          Image="https://img.youtube.com/vi/IsLyduxZ9sc/maxresdefault.jpg"
           name="Java"
           author="Saurabh Shukla"
           difficulty="Beginner"
           link="https://www.youtube.com/playlist?list=PLX9Zi6XTqOKQ7TdRz0QynGIKuMV9Q2H8E"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://img.youtube.com/vi/E2nXEuOkG48/hqdefault.jpg"
           name="Arrays and Vectors"
           author="CodeChef"
           link="https://www.youtube.com/watch?v=E2nXEuOkG48&list=PLQXZIFwMtjowKrFlzGcjMqchffJDRsz1E"
           difficulty="Beginner"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/oRRs98ya8Hg/sddefault.jpg"
           name="Searching and Sorting"
           author="CodeChef"
-          link="http://www.google.com"
+          link="https://www.youtube.com/watch?v=oRRs98ya8Hg&list=PLQXZIFwMtjowKrFlzGcjMqchffJDRsz1E&index=2"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/QkHYa_EImFg/sddefault.jpg"
           link="https://www.youtube.com/watch?v=QkHYa_EImFg&list=PLQXZIFwMtjowKrFlzGcjMqchffJDRsz1E&index=3"
           name="Binary Search"
           author="CodeChef"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/v1Taekeil0g/sddefault.jpg"
           link="https://www.youtube.com/watch?v=v1Taekeil0g&list=PLQXZIFwMtjowKrFlzGcjMqchffJDRsz1E&index=18"
           name="Linked List I"
           author="CodeChef"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/nUMSFzTHykA/sddefault.jpg"
           link="https://www.youtube.com/watch?v=nUMSFzTHykA&list=PLQXZIFwMtjowKrFlzGcjMqchffJDRsz1E&index=19"
           name="Linked List II"
           author="CodeChef"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/cGf_3SgXwWk/sddefault.jpg"
           link="https://www.youtube.com/watch?v=cGf_3SgXwWk&list=PLQXZIFwMtjowKrFlzGcjMqchffJDRsz1E&index=4"
           name="Stacks"
           author="CodeChef"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/ddIWsXj7kVk/sddefault.jpg"
           link="https://www.youtube.com/watch?v=ddIWsXj7kVk&list=PLQXZIFwMtjowKrFlzGcjMqchffJDRsz1E&index=6"
           name="Heaps & Priority Queues"
           author="CodeChef"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/NBipEF08gUo/sddefault.jpg"
           link="https://www.youtube.com/watch?v=NBipEF08gUo&list=PLQXZIFwMtjowKrFlzGcjMqchffJDRsz1E&index=7"
           name="Recursion and Backtracking I"
           author="CodeChef"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/exyxf_ihbhI/sddefault.jpg"
           link="https://www.youtube.com/watch?v=exyxf_ihbhI&list=PLQXZIFwMtjowKrFlzGcjMqchffJDRsz1E&index=8"
           name="Recursion and Backtracking II"
           author="CodeChef"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/F1Fye5cXA0g/sddefault.jpg"
           link="https://www.youtube.com/watch?v=F1Fye5cXA0g&list=PLQXZIFwMtjowKrFlzGcjMqchffJDRsz1E&index=20"
           name="Trees I"
           author="CodeChef"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/iw44T1jDDQE/sddefault.jpg"
           link="https://www.youtube.com/watch?v=iw44T1jDDQE&list=PLQXZIFwMtjowKrFlzGcjMqchffJDRsz1E&index=21"
           name="Trees II"
           author="CodeChef"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/l_g3aH8WAVI/sddefault.jpg"
           link="https://www.youtube.com/watch?v=l_g3aH8WAVI&list=PLQXZIFwMtjowKrFlzGcjMqchffJDRsz1E&index=23"
           name="Trees III"
           author="CodeChef"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/JHldgHi6DPM/sddefault.jpg"
           link="https://www.youtube.com/watch?v=JHldgHi6DPM&list=PLQXZIFwMtjowKrFlzGcjMqchffJDRsz1E&index=9"
           name="Dynamic Programming I"
           author="CodeChef"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/5-lL9QuTpRA/sddefault.jpg"
           link="https://www.youtube.com/watch?v=5-lL9QuTpRA&list=PLQXZIFwMtjowKrFlzGcjMqchffJDRsz1E&index=10"
           name="Dynamic Programming II"
           author="CodeChef"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/S50Eci-SuBE/sddefault.jpg"
           link="https://www.youtube.com/watch?v=S50Eci-SuBE&list=PL2q4fbVm1Ik7W76Tv1BBMGvXazyzZ7UYd"
           name="Dynamic Programming on Trees"
           author="CodeNCode"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/w1t_ZDwLPwg/sddefault.jpg"
           link="https://www.youtube.com/watch?v=w1t_ZDwLPwg&list=PLQXZIFwMtjowKrFlzGcjMqchffJDRsz1E&index=12"
           name="Greedy Algorithms"
           author="CodeChef"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/YTtpfjGlH2M/sddefault.jpg"
           link="https://www.youtube.com/watch?v=YTtpfjGlH2M&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw"
           name="Graph"
           author="Striver"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/1mhRZPYCkAY/sddefault.jpg"
           link="https://www.youtube.com/watch?v=1mhRZPYCkAY&list=PL2q4fbVm1Ik4JdzE2Bv_UUGBz0TXEIrai"
           name="Disjoint Set"
           author="CodeNCode"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/thsleiL6zxg/sddefault.jpg"
           link="https://www.youtube.com/watch?v=thsleiL6zxg"
           name="Tries I"
           author="Striver"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/vAF8Wvs10Ts/sddefault.jpg"
           link="https://www.youtube.com/watch?v=vAF8Wvs10Ts"
           name="Tries II"
           author="Striver"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/nWwt7w2s1So/sddefault.jpg"
           link="https://www.youtube.com/watch?v=nWwt7w2s1So&list=PL2q4fbVm1Ik6v2-emg_JGcC9v2v2YTbvq"
           name="Segment Tree"
           author="CodeNCode"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/eRkqvQtm4DU/sddefault.jpg"
           link="https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG"
           name="Number Theory"
           author="CodeNCode"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/8CryoVUNs_o/sddefault.jpg"
           link="https://www.youtube.com/watch?v=8CryoVUNs_o&list=PL2q4fbVm1Ik48tGHU2eJxQdnGls2QPCBl"
           name="Combinatorics"
           author="CodeNCode"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/efL86JCONH0/sddefault.jpg"
           link="https://www.youtube.com/watch?v=efL86JCONH0&list=PL2q4fbVm1Ik7ip1VkWwe5U_CEb93vw6Iu"
           name="Bit Manipulation"
           author="CodeNCode"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/FGeSdYqM3Nk/sddefault.jpg"
           link="https://www.youtube.com/watch?v=FGeSdYqM3Nk&list=PL2q4fbVm1Ik6ThrYKCzgEpmaS_XWDGHjx"
           name="String Algorithms"
           author="CodeNCode"
           difficulty="Intermediate"
         />
         <Resourcecard
-          Image="https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80"
+          Image="https://i.ytimg.com/vi/qE6ceKCpbj0/sddefault.jpg"
           link="https://www.youtube.com/watch?v=qE6ceKCpbj0&list=PL2q4fbVm1Ik7OAGWIMYrgRkKqshRBpJoY"
           name="Geometric Algorithms"
           author="CodeNCode"
