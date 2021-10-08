@@ -5,9 +5,9 @@ import WantToContribute from '../components/WantToContribute'
 function about() {
     return (
         <div className="home">
-            <Navbar></Navbar>
-            <About></About>
-            <WantToContribute></WantToContribute>
+            <Navbar/>
+            <About/>
+            <WantToContribute/>
         </div>
     )
 }
