@@ -35,7 +35,7 @@ function About() {
                 Tanya Rajhans
               </p>
               <p className="text-base text-gray-400 font-normal">
-                Competitive Programmer | NITA ECE'23
+                Competitive Programmer | NITA ECE-23
               </p>
             </div>
           </div>
@@ -54,7 +54,7 @@ function About() {
                 Atithi Kumar Singh
               </p>
               <p className="text-base text-gray-400 font-normal">
-                Competitive Programmer | NITA ECE'24
+                Competitive Programmer | NITA ECE-24
               </p>
             </div>
           </div>
