@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import "tailwindcss/tailwind.css";
+// import "tailwindcss/tailwind.css";
 
 function About() {
   return (
